@@ -16,7 +16,7 @@ body {
 
 main {
     background: hsl(0, 0%, 100%);
-    max-width: 320px;
+    max-width: 330px;
     border: 1px solid black;
     border-radius: 15px;
     box-shadow: 10px 10px black;
