@@ -16,7 +16,7 @@ body {
 
 main {
     background: hsl(0, 0%, 100%);
-    max-width: 330px;
+    max-width: 320px;
     border: 1px solid black;
     border-radius: 15px;
     box-shadow: 10px 10px black;
@@ -30,7 +30,7 @@ main .first-picture {
 
 
 section  {
-    padding: 0 5% 5% 5%;
+    padding: 0 4% 4% 4%;
 }
 
 
